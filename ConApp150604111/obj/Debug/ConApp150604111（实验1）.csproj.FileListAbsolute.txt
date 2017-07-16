@@ -1,0 +1,12 @@
+C:\Users\ataoD\Desktop\ExeApp150604111\ConApp150604111\bin\Debug\ConApp150604111.exe.config
+C:\Users\ataoD\Desktop\ExeApp150604111\ConApp150604111\obj\Debug\ConApp150604111.exe
+C:\Users\ataoD\Desktop\ExeApp150604111\ConApp150604111\obj\Debug\ConApp150604111.pdb
+G:\Visual Studio 2012工程\C#\C#上机实验\ExeApp150604111\ConApp150604111\bin\Debug\ConApp150604111.exe.config
+G:\Visual Studio 2012工程\C#\C#上机实验\ExeApp150604111\ConApp150604111\obj\Debug\ConApp150604111.exe
+G:\Visual Studio 2012工程\C#\C#上机实验\ExeApp150604111\ConApp150604111\obj\Debug\ConApp150604111.pdb
+C:\Users\Admin\Desktop\ExeApp150604111\ConApp150604111\bin\Debug\ConApp150604111.exe.config
+C:\Users\Admin\Desktop\ExeApp150604111\ConApp150604111\obj\Debug\ConApp150604111.exe
+C:\Users\Admin\Desktop\ExeApp150604111\ConApp150604111\obj\Debug\ConApp150604111.pdb
+C:\Users\Admin\Desktop\ExeApp150604111\ConApp150604111\bin\Debug\ConApp150604111.exe
+C:\Users\Admin\Desktop\ExeApp150604111\ConApp150604111\bin\Debug\ConApp150604111.pdb
+C:\Users\Admin\Desktop\ExeApp150604111\ConApp150604111\obj\Debug\ConApp150604111（实验1）.csprojResolveAssemblyReference.cache

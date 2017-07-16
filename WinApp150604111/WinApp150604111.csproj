@@ -1,0 +1,277 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{7A20D02C-A2D0-468E-B897-0567EE7FEF4A}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>WinApp150604111</RootNamespace>
+    <AssemblyName>WinApp150604111</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xaml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="UIAutomationProvider" />
+    <Reference Include="WindowsBase" />
+    <Reference Include="WindowsFormsIntegration" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DataBase_Hst.cs" />
+    <Compile Include="FrmDoubleColorBallFile_Hst.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmDoubleColorBallFile_Hst.Designer.cs">
+      <DependentUpon>FrmDoubleColorBallFile_Hst.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmDoubleColorBall_Hst.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmDoubleColorBall_Hst.Designer.cs">
+      <DependentUpon>FrmDoubleColorBall_Hst.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmIntegrated_Hst.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmIntegrated_Hst.Designer.cs">
+      <DependentUpon>FrmIntegrated_Hst.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmLinqPages_Hst.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmLinqPages_Hst.Designer.cs">
+      <DependentUpon>FrmLinqPages_Hst.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmLoginFile_Hst.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmLoginFile_Hst.Designer.cs">
+      <DependentUpon>FrmLoginFile_Hst.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmLogin_Hst.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmLogin_Hst.designer.cs">
+      <DependentUpon>FrmLogin_Hst.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmMain_Hst.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMain_Hst.Designer.cs">
+      <DependentUpon>FrmMain_Hst.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmMouse_Hst.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMouse_Hst.Designer.cs">
+      <DependentUpon>FrmMouse_Hst.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmOrderFoods_Hst.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmOrderFoods_Hst.Designer.cs">
+      <DependentUpon>FrmOrderFoods_Hst.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmQuery_Hst.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmQuery_Hst.Designer.cs">
+      <DependentUpon>FrmQuery_Hst.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmStart_Hst.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmStart_Hst.Designer.cs">
+      <DependentUpon>FrmStart_Hst.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmSx_Ah_Hst.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmSx_Ah_Hst.Designer.cs">
+      <DependentUpon>FrmSx_Ah_Hst.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmUpdate_Hst.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmUpdate_Hst.Designer.cs">
+      <DependentUpon>FrmUpdate_Hst.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="FrmDoubleColorBallFile_Hst.resx">
+      <DependentUpon>FrmDoubleColorBallFile_Hst.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmDoubleColorBall_Hst.resx">
+      <DependentUpon>FrmDoubleColorBall_Hst.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmIntegrated_Hst.resx">
+      <DependentUpon>FrmIntegrated_Hst.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmLinqPages_Hst.resx">
+      <DependentUpon>FrmLinqPages_Hst.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmLoginFile_Hst.resx">
+      <DependentUpon>FrmLoginFile_Hst.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmLogin_Hst.resx">
+      <DependentUpon>FrmLogin_Hst.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMain_Hst.resx">
+      <DependentUpon>FrmMain_Hst.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMouse_Hst.resx">
+      <DependentUpon>FrmMouse_Hst.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmOrderFoods_Hst.resx">
+      <DependentUpon>FrmOrderFoods_Hst.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmQuery_Hst.resx">
+      <DependentUpon>FrmQuery_Hst.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmStart_Hst.resx">
+      <DependentUpon>FrmStart_Hst.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmSx_Ah_Hst.resx">
+      <DependentUpon>FrmSx_Ah_Hst.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmUpdate_Hst.resx">
+      <DependentUpon>FrmUpdate_Hst.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gamersky_06origin_11_2016932029E43.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1416316724835.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\20300542432968139521760801833.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\20150826115726_u3JzL.thumb.700_0.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\face01.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\face02.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\full_res %287%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\full_res %281%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\full_res %286%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\番茄炒蛋.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\宫保鸡丁.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\回锅肉.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\麻婆豆腐.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\泡椒牛柳.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\青椒肉丝.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\水煮肉片.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\糖醋里脊.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\土豆烧牛肉.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\鱼香茄子.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\芋儿烧鸡.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\纸包鱼.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\菜谱.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hide1.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

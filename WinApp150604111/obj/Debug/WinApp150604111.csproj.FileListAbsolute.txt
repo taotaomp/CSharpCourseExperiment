@@ -1,0 +1,65 @@
+C:\Users\Admin\Desktop\ExeApp150604111\WinApp150604111\bin\Debug\WinApp150604111.exe.config
+C:\Users\Admin\Desktop\ExeApp150604111\WinApp150604111\bin\Debug\WinApp150604111.exe
+C:\Users\Admin\Desktop\ExeApp150604111\WinApp150604111\bin\Debug\WinApp150604111.pdb
+C:\Users\Admin\Desktop\ExeApp150604111\WinApp150604111\obj\Debug\WinApp150604111.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\ExeApp150604111\WinApp150604111\obj\Debug\WinApp150604111.FrmStart_Hst.resources
+C:\Users\Admin\Desktop\ExeApp150604111\WinApp150604111\obj\Debug\WinApp150604111.Properties.Resources.resources
+C:\Users\Admin\Desktop\ExeApp150604111\WinApp150604111\obj\Debug\WinApp150604111.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\ExeApp150604111\WinApp150604111\obj\Debug\WinApp150604111.exe
+C:\Users\Admin\Desktop\ExeApp150604111\WinApp150604111\obj\Debug\WinApp150604111.pdb
+G:\Visual Studio 2012工程\C#\C#上机实验\ExeApp150604111\WinApp150604111\bin\Debug\WinApp150604111.exe.config
+G:\Visual Studio 2012工程\C#\C#上机实验\ExeApp150604111\WinApp150604111\obj\Debug\WinApp150604111.exe
+G:\Visual Studio 2012工程\C#\C#上机实验\ExeApp150604111\WinApp150604111\obj\Debug\WinApp150604111.pdb
+G:\Visual Studio 2012工程\C#\C#上机实验\ExeApp150604111\WinApp150604111\bin\Debug\WinApp150604111.exe
+G:\Visual Studio 2012工程\C#\C#上机实验\ExeApp150604111\WinApp150604111\bin\Debug\WinApp150604111.pdb
+G:\Visual Studio 2012工程\C#\C#上机实验\ExeApp150604111\WinApp150604111\obj\Debug\WinApp150604111.csprojResolveAssemblyReference.cache
+G:\Visual Studio 2012工程\C#\C#上机实验\ExeApp150604111\WinApp150604111\obj\Debug\WinApp150604111.FrmMain_Hst.resources
+G:\Visual Studio 2012工程\C#\C#上机实验\ExeApp150604111\WinApp150604111\obj\Debug\WinApp150604111.FrmStart_Hst.resources
+G:\Visual Studio 2012工程\C#\C#上机实验\ExeApp150604111\WinApp150604111\obj\Debug\WinApp150604111.Properties.Resources.resources
+G:\Visual Studio 2012工程\C#\C#上机实验\ExeApp150604111\WinApp150604111\obj\Debug\WinApp150604111.csproj.GenerateResource.Cache
+G:\Visual Studio 2012工程\C#\C#上机实验\ExeApp150604111\WinApp150604111\obj\Debug\WinApp150604111.FrmLogin_Hst.resources
+G:\Visual Studio 2012工程\C#\C#上机实验\ExeApp150604111\WinApp150604111\obj\Debug\WinApp150604111.FrmDoubleColorBall_Hst.resources
+G:\Visual Studio 2012工程\C#\C#上机实验\ExeApp150604111\WinApp150604111\obj\Debug\WinApp150604111.FrmMouse_Hst.resources
+E:\C#上机实验\ExeApp150604111\WinApp150604111\bin\Debug\WinApp150604111.exe.config
+E:\C#上机实验\ExeApp150604111\WinApp150604111\obj\Debug\WinApp150604111.exe
+E:\C#上机实验\ExeApp150604111\WinApp150604111\obj\Debug\WinApp150604111.pdb
+E:\C#上机实验\ExeApp150604111\WinApp150604111\bin\Debug\WinApp150604111.exe
+E:\C#上机实验\ExeApp150604111\WinApp150604111\bin\Debug\WinApp150604111.pdb
+E:\C#上机实验\ExeApp150604111\WinApp150604111\obj\Debug\WinApp150604111.csprojResolveAssemblyReference.cache
+E:\C#上机实验\ExeApp150604111\WinApp150604111\obj\Debug\WinApp150604111.FrmDoubleColorBall_Hst.resources
+E:\C#上机实验\ExeApp150604111\WinApp150604111\obj\Debug\WinApp150604111.FrmLogin_Hst.resources
+E:\C#上机实验\ExeApp150604111\WinApp150604111\obj\Debug\WinApp150604111.FrmMain_Hst.resources
+E:\C#上机实验\ExeApp150604111\WinApp150604111\obj\Debug\WinApp150604111.FrmMouse_Hst.resources
+E:\C#上机实验\ExeApp150604111\WinApp150604111\obj\Debug\WinApp150604111.FrmStart_Hst.resources
+E:\C#上机实验\ExeApp150604111\WinApp150604111\obj\Debug\WinApp150604111.Properties.Resources.resources
+E:\C#上机实验\ExeApp150604111\WinApp150604111\obj\Debug\WinApp150604111.csproj.GenerateResource.Cache
+D:\工作\Visual Studio 2012工程\C#\C#上机实验\ExeApp150604111\WinApp150604111\bin\Debug\WinApp150604111.exe.config
+D:\工作\Visual Studio 2012工程\C#\C#上机实验\ExeApp150604111\WinApp150604111\obj\Debug\WinApp150604111.exe
+D:\工作\Visual Studio 2012工程\C#\C#上机实验\ExeApp150604111\WinApp150604111\obj\Debug\WinApp150604111.pdb
+D:\工作\Visual Studio 2012工程\C#\C#上机实验\ExeApp150604111\WinApp150604111\bin\Debug\WinApp150604111.exe
+D:\工作\Visual Studio 2012工程\C#\C#上机实验\ExeApp150604111\WinApp150604111\bin\Debug\WinApp150604111.pdb
+D:\工作\Visual Studio 2012工程\C#\C#上机实验\ExeApp150604111\WinApp150604111\obj\Debug\WinApp150604111.csprojResolveAssemblyReference.cache
+D:\工作\Visual Studio 2012工程\C#\C#上机实验\ExeApp150604111\WinApp150604111\obj\Debug\WinApp150604111.FrmDoubleColorBall_Hst.resources
+D:\工作\Visual Studio 2012工程\C#\C#上机实验\ExeApp150604111\WinApp150604111\obj\Debug\WinApp150604111.FrmLogin_Hst.resources
+D:\工作\Visual Studio 2012工程\C#\C#上机实验\ExeApp150604111\WinApp150604111\obj\Debug\WinApp150604111.FrmMain_Hst.resources
+D:\工作\Visual Studio 2012工程\C#\C#上机实验\ExeApp150604111\WinApp150604111\obj\Debug\WinApp150604111.FrmMouse_Hst.resources
+D:\工作\Visual Studio 2012工程\C#\C#上机实验\ExeApp150604111\WinApp150604111\obj\Debug\WinApp150604111.FrmStart_Hst.resources
+D:\工作\Visual Studio 2012工程\C#\C#上机实验\ExeApp150604111\WinApp150604111\obj\Debug\WinApp150604111.Properties.Resources.resources
+D:\工作\Visual Studio 2012工程\C#\C#上机实验\ExeApp150604111\WinApp150604111\obj\Debug\WinApp150604111.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\ExeApp150604111\WinApp150604111\obj\Debug\WinApp150604111.FrmDoubleColorBall_Hst.resources
+C:\Users\Admin\Desktop\ExeApp150604111\WinApp150604111\obj\Debug\WinApp150604111.FrmLogin_Hst.resources
+C:\Users\Admin\Desktop\ExeApp150604111\WinApp150604111\obj\Debug\WinApp150604111.FrmMain_Hst.resources
+C:\Users\Admin\Desktop\ExeApp150604111\WinApp150604111\obj\Debug\WinApp150604111.FrmMouse_Hst.resources
+C:\Users\Admin\Desktop\ExeApp150604111\WinApp150604111\obj\Debug\WinApp150604111.FrmSx_Ah_Hst.resources
+D:\工作\Visual Studio 2012工程\C#\C#上机实验\ExeApp150604111\WinApp150604111\obj\Debug\WinApp150604111.FrmSx_Ah_Hst.resources
+D:\工作\Visual Studio 2012工程\C#\C#上机实验\ExeApp150604111\WinApp150604111\obj\Debug\WinApp150604111.FrmOrderFoods_Hst.resources
+D:\工作\Visual Studio 2012工程\C#\C#上机实验\ExeApp150604111\WinApp150604111\obj\Debug\WinApp150604111.FrmIntegrated_Hst.resources
+E:\C#上机实验\ExeApp150604111\WinApp150604111\obj\Debug\WinApp150604111.FrmIntegrated_Hst.resources
+E:\C#上机实验\ExeApp150604111\WinApp150604111\obj\Debug\WinApp150604111.FrmOrderFoods_Hst.resources
+E:\C#上机实验\ExeApp150604111\WinApp150604111\obj\Debug\WinApp150604111.FrmSx_Ah_Hst.resources
+E:\C#上机实验\ExeApp150604111\WinApp150604111\obj\Debug\WinApp150604111.FrmLoginFile_Hst.resources
+D:\工作\Visual Studio 2012工程\C#\C#上机实验\ExeApp150604111\WinApp150604111\obj\Debug\WinApp150604111.FrmDoubleColorBallFile_Hst.resources
+D:\工作\Visual Studio 2012工程\C#\C#上机实验\ExeApp150604111\WinApp150604111\obj\Debug\WinApp150604111.FrmLoginFile_Hst.resources
+D:\工作\Visual Studio 2012工程\C#\C#上机实验\ExeApp150604111\WinApp150604111\obj\Debug\WinApp150604111.FrmQuery_Hst.resources
+D:\工作\Visual Studio 2012工程\C#\C#上机实验\ExeApp150604111\WinApp150604111\obj\Debug\WinApp150604111.FrmUpdate_Hst.resources
+D:\工作\Visual Studio 2012工程\C#\C#上机实验\ExeApp150604111\WinApp150604111\obj\Debug\WinApp150604111.FrmLinqPages_Hst.resources

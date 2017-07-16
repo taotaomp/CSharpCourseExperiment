@@ -1,0 +1,10 @@
+version α  完成程序启动窗体和主窗体开发
+version 1.0 完成程序基本开发
+version 1.1 优化小游戏图标随机出现的逻辑
+version 2.0 解决无法登陆的BUG（这个bug简直够大）
+version 2.1 加入实验四接口
+version 3.0 重构双色球程序代码，优化逻辑，提高程序效率
+version 3.1 解决重构后双色球几率性出现号码重复bug
+version 3.2 加入ESC键退出双色球的功能
+version 3.3 为主窗体加入背景图片
+version 3.4 使主窗体图片滚动显示

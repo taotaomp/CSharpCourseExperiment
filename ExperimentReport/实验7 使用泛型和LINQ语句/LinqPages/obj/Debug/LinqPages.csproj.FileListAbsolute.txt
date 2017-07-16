@@ -1,0 +1,50 @@
+E:\源码\C#范例大全（卷二）\04\028\LinqPages\LinqPages\bin\Debug\LinqPages.exe.config
+E:\源码\C#范例大全（卷二）\04\028\LinqPages\LinqPages\bin\Debug\LinqPages.exe
+E:\源码\C#范例大全（卷二）\04\028\LinqPages\LinqPages\bin\Debug\LinqPages.pdb
+E:\源码\C#范例大全（卷二）\04\028\LinqPages\LinqPages\obj\Debug\ResolveAssemblyReference.cache
+E:\源码\C#范例大全（卷二）\04\028\LinqPages\LinqPages\obj\Debug\LinqPages.Frm_Main.resources
+E:\源码\C#范例大全（卷二）\04\028\LinqPages\LinqPages\obj\Debug\LinqPages.Properties.Resources.resources
+E:\源码\C#范例大全（卷二）\04\028\LinqPages\LinqPages\obj\Debug\LinqPages.csproj.GenerateResource.Cache
+E:\源码\C#范例大全（卷二）\04\028\LinqPages\LinqPages\obj\Debug\LinqPages.exe
+E:\源码\C#范例大全（卷二）\04\028\LinqPages\LinqPages\obj\Debug\LinqPages.pdb
+E:\源码\学通C#的24堂课\mr\14\qjyy\03\LinqPages\LinqPages\bin\Debug\LinqPages.exe.config
+E:\源码\学通C#的24堂课\mr\14\qjyy\03\LinqPages\LinqPages\bin\Debug\LinqPages.exe
+E:\源码\学通C#的24堂课\mr\14\qjyy\03\LinqPages\LinqPages\bin\Debug\LinqPages.pdb
+E:\源码\学通C#的24堂课\mr\14\qjyy\03\LinqPages\LinqPages\obj\Debug\ResolveAssemblyReference.cache
+E:\源码\学通C#的24堂课\mr\14\qjyy\03\LinqPages\LinqPages\obj\Debug\LinqPages.Frm_Main.resources
+E:\源码\学通C#的24堂课\mr\14\qjyy\03\LinqPages\LinqPages\obj\Debug\LinqPages.Properties.Resources.resources
+E:\源码\学通C#的24堂课\mr\14\qjyy\03\LinqPages\LinqPages\obj\Debug\LinqPages.csproj.GenerateResource.Cache
+E:\源码\学通C#的24堂课\mr\14\qjyy\03\LinqPages\LinqPages\obj\Debug\LinqPages.exe
+E:\源码\学通C#的24堂课\mr\14\qjyy\03\LinqPages\LinqPages\obj\Debug\LinqPages.pdb
+F:\工作\源码\人邮教材（2015）\C#程序设计实用教程\MR\上机指导\第9章\LinqPages\bin\Debug\LinqPages.exe.config
+F:\工作\源码\人邮教材（2015）\C#程序设计实用教程\MR\上机指导\第9章\LinqPages\bin\Debug\LinqPages.exe
+F:\工作\源码\人邮教材（2015）\C#程序设计实用教程\MR\上机指导\第9章\LinqPages\bin\Debug\LinqPages.pdb
+F:\工作\源码\人邮教材（2015）\C#程序设计实用教程\MR\上机指导\第9章\LinqPages\bin\Debug\mscorlib.dll
+F:\工作\源码\人邮教材（2015）\C#程序设计实用教程\MR\上机指导\第9章\LinqPages\bin\Debug\zh-Hans\mscorlib.resources.dll
+F:\工作\源码\人邮教材（2015）\C#程序设计实用教程\MR\上机指导\第9章\LinqPages\bin\Debug\normidna.nlp
+F:\工作\源码\人邮教材（2015）\C#程序设计实用教程\MR\上机指导\第9章\LinqPages\bin\Debug\normnfc.nlp
+F:\工作\源码\人邮教材（2015）\C#程序设计实用教程\MR\上机指导\第9章\LinqPages\bin\Debug\normnfd.nlp
+F:\工作\源码\人邮教材（2015）\C#程序设计实用教程\MR\上机指导\第9章\LinqPages\bin\Debug\normnfkc.nlp
+F:\工作\源码\人邮教材（2015）\C#程序设计实用教程\MR\上机指导\第9章\LinqPages\bin\Debug\normnfkd.nlp
+F:\工作\源码\人邮教材（2015）\C#程序设计实用教程\MR\上机指导\第9章\LinqPages\obj\Debug\LinqPages.csprojResolveAssemblyReference.cache
+F:\工作\源码\人邮教材（2015）\C#程序设计实用教程\MR\上机指导\第9章\LinqPages\obj\Debug\LinqPages.Frm_Main.resources
+F:\工作\源码\人邮教材（2015）\C#程序设计实用教程\MR\上机指导\第9章\LinqPages\obj\Debug\LinqPages.Properties.Resources.resources
+F:\工作\源码\人邮教材（2015）\C#程序设计实用教程\MR\上机指导\第9章\LinqPages\obj\Debug\LinqPages.csproj.GenerateResource.Cache
+F:\工作\源码\人邮教材（2015）\C#程序设计实用教程\MR\上机指导\第9章\LinqPages\obj\Debug\LinqPages.exe
+F:\工作\源码\人邮教材（2015）\C#程序设计实用教程\MR\上机指导\第9章\LinqPages\obj\Debug\LinqPages.pdb
+D:\工作\文档\工作文档\C#实验\实验7 使用泛型和LINQ语句\LinqPages\bin\Debug\LinqPages.exe.config
+D:\工作\文档\工作文档\C#实验\实验7 使用泛型和LINQ语句\LinqPages\bin\Debug\LinqPages.exe
+D:\工作\文档\工作文档\C#实验\实验7 使用泛型和LINQ语句\LinqPages\bin\Debug\LinqPages.pdb
+D:\工作\文档\工作文档\C#实验\实验7 使用泛型和LINQ语句\LinqPages\bin\Debug\mscorlib.dll
+D:\工作\文档\工作文档\C#实验\实验7 使用泛型和LINQ语句\LinqPages\bin\Debug\zh-Hans\mscorlib.resources.dll
+D:\工作\文档\工作文档\C#实验\实验7 使用泛型和LINQ语句\LinqPages\bin\Debug\normidna.nlp
+D:\工作\文档\工作文档\C#实验\实验7 使用泛型和LINQ语句\LinqPages\bin\Debug\normnfc.nlp
+D:\工作\文档\工作文档\C#实验\实验7 使用泛型和LINQ语句\LinqPages\bin\Debug\normnfd.nlp
+D:\工作\文档\工作文档\C#实验\实验7 使用泛型和LINQ语句\LinqPages\bin\Debug\normnfkc.nlp
+D:\工作\文档\工作文档\C#实验\实验7 使用泛型和LINQ语句\LinqPages\bin\Debug\normnfkd.nlp
+D:\工作\文档\工作文档\C#实验\实验7 使用泛型和LINQ语句\LinqPages\obj\Debug\LinqPages.csprojResolveAssemblyReference.cache
+D:\工作\文档\工作文档\C#实验\实验7 使用泛型和LINQ语句\LinqPages\obj\Debug\LinqPages.Properties.Resources.resources
+D:\工作\文档\工作文档\C#实验\实验7 使用泛型和LINQ语句\LinqPages\obj\Debug\LinqPages.csproj.GenerateResource.Cache
+D:\工作\文档\工作文档\C#实验\实验7 使用泛型和LINQ语句\LinqPages\obj\Debug\LinqPages.exe
+D:\工作\文档\工作文档\C#实验\实验7 使用泛型和LINQ语句\LinqPages\obj\Debug\LinqPages.pdb
+D:\工作\文档\工作文档\C#实验\实验7 使用泛型和LINQ语句\LinqPages\obj\Debug\LinqPages.FrmLinqPages_Hst.resources

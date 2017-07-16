@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="db_EMS" Class="LinqClassDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=MRWXK-PC\SQL2012;Initial Catalog=db_EMS;User ID=sa" SettingsObjectName="LinqPages.Properties.Settings" SettingsPropertyName="db_EMSConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.tb_stock" Member="tb_stock">
+    <Type Name="tb_stock">
+      <Column Name="tradecode" Type="System.String" DbType="VarChar(5) NOT NULL" CanBeNull="false" />
+      <Column Name="fullname" Type="System.String" DbType="VarChar(20) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="type" Type="System.String" DbType="VarChar(10) NOT NULL" CanBeNull="false" />
+      <Column Name="standard" Type="System.String" DbType="VarChar(10) NOT NULL" CanBeNull="false" />
+      <Column Name="unit" Type="System.String" DbType="VarChar(10) NOT NULL" CanBeNull="false" />
+      <Column Name="produce" Type="System.String" DbType="VarChar(20) NOT NULL" CanBeNull="false" />
+      <Column Name="qty" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="price" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="averageprice" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="saleprice" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="stockcheck" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="upperlimit" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="lowerlimit" Type="System.Int32" DbType="Int" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>

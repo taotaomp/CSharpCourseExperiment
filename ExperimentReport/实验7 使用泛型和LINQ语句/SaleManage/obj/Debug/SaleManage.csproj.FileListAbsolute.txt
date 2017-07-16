@@ -1,0 +1,25 @@
+C:\工作\源码\人邮教材（2015）\C#程序设计实用教程\MR\上机指导\第4章\SaleManage\bin\Debug\SaleManage.exe.config
+C:\工作\源码\人邮教材（2015）\C#程序设计实用教程\MR\上机指导\第4章\SaleManage\bin\Debug\SaleManage.exe
+C:\工作\源码\人邮教材（2015）\C#程序设计实用教程\MR\上机指导\第4章\SaleManage\bin\Debug\SaleManage.pdb
+C:\工作\源码\人邮教材（2015）\C#程序设计实用教程\MR\上机指导\第4章\SaleManage\obj\Debug\SaleManage.csprojResolveAssemblyReference.cache
+C:\工作\源码\人邮教材（2015）\C#程序设计实用教程\MR\上机指导\第4章\SaleManage\obj\Debug\SaleManage.exe
+C:\工作\源码\人邮教材（2015）\C#程序设计实用教程\MR\上机指导\第4章\SaleManage\obj\Debug\SaleManage.pdb
+E:\上机指导\第4章\SaleManage\bin\Debug\SaleManage.exe.config
+E:\上机指导\第4章\SaleManage\obj\Debug\SaleManage.exe
+E:\上机指导\第4章\SaleManage\obj\Debug\SaleManage.pdb
+E:\C#上机实验\实验7 使用泛型和LINQ语句\SaleManage\bin\Debug\SaleManage.exe.config
+E:\C#上机实验\实验7 使用泛型和LINQ语句\SaleManage\obj\Debug\SaleManage.exe
+E:\C#上机实验\实验7 使用泛型和LINQ语句\SaleManage\obj\Debug\SaleManage.pdb
+D:\工作\文档\工作文档\C#实验\实验7 使用泛型和LINQ语句\SaleManage\bin\Debug\SaleManage.exe.config
+D:\工作\文档\工作文档\C#实验\实验7 使用泛型和LINQ语句\SaleManage\obj\Debug\SaleManage.exe
+D:\工作\文档\工作文档\C#实验\实验7 使用泛型和LINQ语句\SaleManage\obj\Debug\SaleManage.pdb
+D:\工作\文档\工作文档\C#实验\实验7 使用泛型和LINQ语句\SaleManage\bin\Debug\SaleManage.exe
+D:\工作\文档\工作文档\C#实验\实验7 使用泛型和LINQ语句\SaleManage\bin\Debug\SaleManage.pdb
+D:\工作\文档\工作文档\C#实验\实验7 使用泛型和LINQ语句\SaleManage\bin\Debug\mscorlib.dll
+D:\工作\文档\工作文档\C#实验\实验7 使用泛型和LINQ语句\SaleManage\bin\Debug\zh-Hans\mscorlib.resources.dll
+D:\工作\文档\工作文档\C#实验\实验7 使用泛型和LINQ语句\SaleManage\bin\Debug\normidna.nlp
+D:\工作\文档\工作文档\C#实验\实验7 使用泛型和LINQ语句\SaleManage\bin\Debug\normnfc.nlp
+D:\工作\文档\工作文档\C#实验\实验7 使用泛型和LINQ语句\SaleManage\bin\Debug\normnfd.nlp
+D:\工作\文档\工作文档\C#实验\实验7 使用泛型和LINQ语句\SaleManage\bin\Debug\normnfkc.nlp
+D:\工作\文档\工作文档\C#实验\实验7 使用泛型和LINQ语句\SaleManage\bin\Debug\normnfkd.nlp
+D:\工作\文档\工作文档\C#实验\实验7 使用泛型和LINQ语句\SaleManage\obj\Debug\SaleManage.csprojResolveAssemblyReference.cache
